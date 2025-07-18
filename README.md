@@ -1,7 +1,5 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=안녕하세요.%20잘%20부탁드립니다!&animation=&fontColor=000000&fontSize=40" />
-    </div>
-    <div style="text-align: left;"> 
+
+ <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발 강사에서 엔지니어로! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 1년 6개월 간 개발 강사로 재직하며 IT에 대한 기초를 다졌으며</li><li> 엔지니어(클라우드, DevOps)로써의 새로운 도전을 하고 있습니다! </div> 
     </div>
