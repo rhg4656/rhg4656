@@ -7,7 +7,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.notion.so/1dbabcff6d80803a8685ec3326a231a0> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/1dbabcff6d80803a8685ec3326a231a0"> </a>
+    <div> <a href=https://www.notion.so/1dbabcff6d80803a8685ec3326a231a0> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/1dbabcff6d80803a8685ec3326a231a0"> </a>
          <a href=mailto:hogeun4656@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hogeun4656@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
